@@ -1,0 +1,1 @@
+thsi is infinitty01 first git project!
